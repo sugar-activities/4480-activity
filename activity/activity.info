@@ -1,0 +1,9 @@
+[Activity]
+name = Anno
+service_name = org.laptop.sugar.AnnoActivity
+icon = activity-anno
+exec = sugar-activity annoactivity.AnnoActivity
+show_launcher = no
+activity_version = 1
+mime_types = application/pdf;image/vnd.djvu;image/x.djvu;image/tiff;application/x-cbz;application/x-cbr;application/epub+zip
+license = GPLv2+

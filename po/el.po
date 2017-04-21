@@ -1,0 +1,92 @@
+# Greek translation of Xbook project.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Simos Xenitellis <simos.lists@googlemail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: Xbook project\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-09 00:31-0400\n"
+"PO-Revision-Date: 2008-10-24 11:45-0400\n"
+"Last-Translator: John Sarlis <sarlis@sch.gr>\n"
+"Language-Team: Greek <olpc@grnet.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+#: activity/activity.info:2 readactivity.py:129
+msgid "Read"
+msgstr "Ανάγνωση"
+
+#: readactivity.py:125
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: readactivity.py:137
+msgid "View"
+msgstr "Προβολή"
+
+#: readactivity.py:223
+msgid "Choose document"
+msgstr "Επιλογή αρχείου κειμένου"
+
+#: readtoolbar.py:67
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+#: readtoolbar.py:74
+msgid "Next"
+msgstr "Επόμενο"
+
+#: readtoolbar.py:140
+msgid "Find first"
+msgstr "Βρες το πρώτο"
+
+#: readtoolbar.py:146
+msgid "Find previous"
+msgstr "Βρες το προηγούμενο"
+
+#: readtoolbar.py:148
+msgid "Find next"
+msgstr "Βρες το επόμενο"
+
+#: readtoolbar.py:160
+msgid "Back"
+msgstr "Πίσω"
+
+#: readtoolbar.py:167
+msgid "Forward"
+msgstr "Μπροστά"
+
+#: readtoolbar.py:271
+msgid "Zoom out"
+msgstr "Εστίαση έξω"
+
+#: readtoolbar.py:277
+msgid "Zoom in"
+msgstr "Εστίαση μέσα"
+
+#: readtoolbar.py:283
+msgid "Zoom to width"
+msgstr "Εστίαση στο πλάτος"
+
+#: readtoolbar.py:289
+msgid "Zoom to fit"
+msgstr "Εστίαση στη σελίδα"
+
+#: readtoolbar.py:294
+msgid "Actual size"
+msgstr "Πραγματικό μέγεθος"
+
+#: readtoolbar.py:312
+msgid "%"
+msgstr "%"
+
+#: readtoolbar.py:330
+msgid "Fullscreen"
+msgstr "Πλήρης οθόνη"
+
+#~ msgid "Read Activity"
+#~ msgstr "Ανάγνωση δραστηριότητας"

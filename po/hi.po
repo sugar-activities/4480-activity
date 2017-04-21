@@ -1,0 +1,150 @@
+# translation of read-activity.po to Hindi
+# G Karunakar <karunakar@indlinux.org>, 2007.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+msgid ""
+msgstr ""
+"Project-Id-Version: read-activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-09 00:33-0400\n"
+"PO-Revision-Date: 2010-03-22 22:50+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Hindi <indlinux-hindi@lists.sourceforge.net>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.3\n"
+
+#: activity/activity.info:2
+msgid "Read"
+msgstr "पढ़ें"
+
+#: readactivity.py:330
+msgid "Back"
+msgstr "पीछे"
+
+#: readactivity.py:333
+msgid "Previous page"
+msgstr "पिछला पेज"
+
+#: readactivity.py:336
+msgid "Previous bookmark"
+msgstr "पिछला पसंदीदा"
+
+#: readactivity.py:346
+msgid "Forward"
+msgstr "आगे"
+
+#: readactivity.py:349
+msgid "Next page"
+msgstr "अगला पेज"
+
+#: readactivity.py:352
+msgid "Next bookmark"
+msgstr "अगला पसंदीदा"
+
+#: readactivity.py:537
+msgid "Choose document"
+msgstr "दस्तावेज़ चुनें"
+
+#: readdialog.py:49
+msgid "Cancel"
+msgstr "रद्द करें"
+
+#: readdialog.py:55
+msgid "Ok"
+msgstr "ठीक"
+
+#: readdialog.py:109
+msgid "<b>Title</b>:"
+msgstr "<b>शीर्षक</b>:"
+
+#: readdialog.py:136
+msgid "<b>Details</b>:"
+msgstr "<b>विवरण</b>:"
+
+#. TRANS: This goes like Bookmark added by User 5 days ago (the elapsed string gets translated
+#. TRANS: automatically)
+#: readsidebar.py:83
+#, python-format
+msgid "Bookmark added by %(user)s %(time)s"
+msgstr "%(user)s %(time)s द्वारा पसंदीदा जोड़े गए"
+
+#: readsidebar.py:124 readsidebar.py:164
+msgid "Add notes for bookmark: "
+msgstr "पसंदीदा के लिए टीप जोड़ें: "
+
+#: readsidebar.py:161
+#, python-format
+msgid "%s's bookmark"
+msgstr "%s का पसंदीदा"
+
+#: readsidebar.py:162
+#, python-format
+msgid "Bookmark for page %d"
+msgstr "पृष्ठ %d के लिए पसंदीदा"
+
+#: readtoolbar.py:64
+msgid "Previous"
+msgstr "पिछला"
+
+#: readtoolbar.py:71
+msgid "Next"
+msgstr "अगला"
+
+#: readtoolbar.py:157
+msgid "Find first"
+msgstr "पहीले ढूँढें"
+
+#: readtoolbar.py:163
+msgid "Find previous"
+msgstr "पिछला ढूंढें"
+
+#: readtoolbar.py:165
+msgid "Find next"
+msgstr "अगला ढूंढें"
+
+#: readtoolbar.py:187
+msgid "Zoom out"
+msgstr "छोटे आकार में दिखाएँ"
+
+#: readtoolbar.py:193
+msgid "Zoom in"
+msgstr "बड़े आकार में दिखाएँ"
+
+#: readtoolbar.py:199
+msgid "Zoom to width"
+msgstr "चौड़ाई में बड़ा करें"
+
+#: readtoolbar.py:205
+msgid "Zoom to fit"
+msgstr "फिट होने लायक बड़ा करें"
+
+#: readtoolbar.py:210
+msgid "Actual size"
+msgstr "असली आकार"
+
+#: readtoolbar.py:227
+msgid "%"
+msgstr "%"
+
+#: readtoolbar.py:240
+msgid "Fullscreen"
+msgstr "पूर्ण स्क्रीन"
+
+#. TRANS: Translate this as Page i of m (eg: Page 4 of 334)
+#: readtopbar.py:201
+#, python-format
+msgid "Page %i of %i"
+msgstr "पृष्ठ %i में से: %i"
+
+#~ msgid "Edit"
+#~ msgstr "संपादन"
+
+#~ msgid "View"
+#~ msgstr "दृश्य"
+
+#~ msgid "Read Activity"
+#~ msgstr "पढ़ने के क्रियाकलाप"

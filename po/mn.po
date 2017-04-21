@@ -1,0 +1,149 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-09 00:33-0400\n"
+"PO-Revision-Date: 2009-09-22 13:51-0400\n"
+"Last-Translator: Odontsetseg Bat-Erdene <obat-erdene@suffolk.edu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.1\n"
+
+#: activity/activity.info:2
+msgid "Read"
+msgstr "Унших"
+
+#: readactivity.py:125
+msgid "Edit"
+msgstr "Засварлах"
+
+#: readactivity.py:137
+msgid "View"
+msgstr "Харах"
+
+#: readactivity.py:537
+msgid "Choose document"
+msgstr "Баримт сонгох"
+
+#: readtoolbar.py:64
+msgid "Previous"
+msgstr "Өмнөх"
+
+#: readtoolbar.py:71
+msgid "Next"
+msgstr "Дараах"
+
+#: readtoolbar.py:157
+msgid "Find first"
+msgstr "Эхнийхийг олох"
+
+#: readtoolbar.py:163
+msgid "Find previous"
+msgstr "Өмнөхийг олох"
+
+#: readtoolbar.py:165
+msgid "Find next"
+msgstr "Дараагийнхийг олох"
+
+#: readactivity.py:330
+msgid "Back"
+msgstr "Буцах"
+
+#: readactivity.py:346
+msgid "Forward"
+msgstr "Урагшлах"
+
+#: readtoolbar.py:187
+msgid "Zoom out"
+msgstr "Холдуулах"
+
+#: readtoolbar.py:193
+msgid "Zoom in"
+msgstr "Ойртуулах"
+
+#: readtoolbar.py:199
+msgid "Zoom to width"
+msgstr "Өргөнд тааруулах"
+
+#: readtoolbar.py:205
+msgid "Zoom to fit"
+msgstr "Багтахаар гаргах"
+
+#: readtoolbar.py:210
+msgid "Actual size"
+msgstr "Бодит хэмжээ"
+
+#: readtoolbar.py:227
+msgid "%"
+msgstr "%"
+
+#: readtoolbar.py:240
+msgid "Fullscreen"
+msgstr "Дэлгэц дүүрэн"
+
+#: readactivity.py:333
+msgid "Previous page"
+msgstr "Өмнөх хуудас"
+
+#: readactivity.py:336
+msgid "Previous bookmark"
+msgstr "Өмнөх тэмдэглэгээ"
+
+#: readactivity.py:349
+msgid "Next page"
+msgstr "Дараах хуудас"
+
+#: readactivity.py:352
+msgid "Next bookmark"
+msgstr "Дараах тэмдэглэгээ"
+
+#: readdialog.py:49
+msgid "Cancel"
+msgstr "Болио"
+
+#: readdialog.py:55
+msgid "Ok"
+msgstr "Зөв"
+
+#: readdialog.py:109
+msgid "<b>Title</b>:"
+msgstr "<b>Гарчиг</b>:"
+
+#: readdialog.py:136
+msgid "<b>Details</b>:"
+msgstr "<b>Деталь</b>:"
+
+#. TRANS: This goes like Bookmark added by User 5 days ago (the elapsed string gets translated
+#. TRANS: automatically)
+#: readsidebar.py:83
+#, python-format
+msgid "Bookmark added by %(user)s %(time)s"
+msgstr "%(user)s %(time)s-т тэмдэглэгээ нэмсэн"
+
+#: readsidebar.py:124 readsidebar.py:164
+msgid "Add notes for bookmark: "
+msgstr "Тэмдэглэгээнд тайлбар хийх: "
+
+#: readsidebar.py:161
+#, python-format
+msgid "%s's bookmark"
+msgstr "%s-iin тэмдэглэгээ"
+
+#: readsidebar.py:162
+#, python-format
+msgid "Bookmark for page %d"
+msgstr "%d -р хуудасны тэмдэглэгээ"
+
+#. TRANS: Translate this as Page i of m (eg: Page 4 of 334)
+#: readtopbar.py:201
+#, python-format
+msgid "Page %i of %i"
+msgstr "%i-н %i-р хуудас"

@@ -1,0 +1,150 @@
+# translation of xbook.master.po to Français
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gauthier Ancelin <gauthier.ancelin@laposte.net>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: xbook.master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-09 00:33-0400\n"
+"PO-Revision-Date: 2010-01-25 07:13+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Français <fedora-trans-fr@redhat.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: activity/activity.info:2
+msgid "Read"
+msgstr "Lire"
+
+#: readactivity.py:330
+msgid "Back"
+msgstr "Reculer"
+
+#: readactivity.py:333
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: readactivity.py:336
+msgid "Previous bookmark"
+msgstr "Signet précédent"
+
+#: readactivity.py:346
+msgid "Forward"
+msgstr "Avancer"
+
+#: readactivity.py:349
+msgid "Next page"
+msgstr "Page suivante"
+
+#: readactivity.py:352
+msgid "Next bookmark"
+msgstr "Signet suivant"
+
+#: readactivity.py:537
+msgid "Choose document"
+msgstr "Choisir un document"
+
+#: readdialog.py:49
+msgid "Cancel"
+msgstr "Annuler"
+
+#: readdialog.py:55
+msgid "Ok"
+msgstr "Ok"
+
+#: readdialog.py:109
+msgid "<b>Title</b>:"
+msgstr "<b>Titre</b> :"
+
+#: readdialog.py:136
+msgid "<b>Details</b>:"
+msgstr "<b>Détails</b> :"
+
+#. TRANS: This goes like Bookmark added by User 5 days ago (the elapsed string gets translated
+#. TRANS: automatically)
+#: readsidebar.py:83
+#, python-format
+msgid "Bookmark added by %(user)s %(time)s"
+msgstr "Signet ajouté par %(user)s il y a %(time)s"
+
+#: readsidebar.py:124 readsidebar.py:164
+msgid "Add notes for bookmark: "
+msgstr "Ajouter des notes pour le signet: "
+
+#: readsidebar.py:161
+#, python-format
+msgid "%s's bookmark"
+msgstr "Signet de %s"
+
+#: readsidebar.py:162
+#, python-format
+msgid "Bookmark for page %d"
+msgstr "Signet pour la page %d"
+
+#: readtoolbar.py:64
+msgid "Previous"
+msgstr "Précédent"
+
+#: readtoolbar.py:71
+msgid "Next"
+msgstr "Suivant"
+
+#: readtoolbar.py:157
+msgid "Find first"
+msgstr "Trouver le premier"
+
+#: readtoolbar.py:163
+msgid "Find previous"
+msgstr "Trouver le précédent"
+
+#: readtoolbar.py:165
+msgid "Find next"
+msgstr "Trouver le suivant"
+
+#: readtoolbar.py:187
+msgid "Zoom out"
+msgstr "Zoom arrière"
+
+#: readtoolbar.py:193
+msgid "Zoom in"
+msgstr "Zoom avant"
+
+#: readtoolbar.py:199
+msgid "Zoom to width"
+msgstr "Zoom à la largeur de la page"
+
+#: readtoolbar.py:205
+msgid "Zoom to fit"
+msgstr "Zoom plein écran"
+
+#: readtoolbar.py:210
+msgid "Actual size"
+msgstr "Dimension actuelle"
+
+#: readtoolbar.py:227
+msgid "%"
+msgstr "%"
+
+#: readtoolbar.py:240
+msgid "Fullscreen"
+msgstr "Plein écran"
+
+#. TRANS: Translate this as Page i of m (eg: Page 4 of 334)
+#: readtopbar.py:201
+#, python-format
+msgid "Page %i of %i"
+msgstr "Page %i sur %i"
+
+#~ msgid "Edit"
+#~ msgstr "Éditer"
+
+#~ msgid "View"
+#~ msgstr "Afficher"
+
+#~ msgid "Read Activity"
+#~ msgstr "Lecture"

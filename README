@@ -1,0 +1,7 @@
+This is an extended/altered -- and experimental (!) -- version of the read activity. 
+Annotations currently work only for texts downloaded with the GetBooks activity, as the texts are identified by their URL.
+
+Features:
+ - add multiple annotations per page
+ - sync annotations with a web server
+ - download annotations of other people for the same text (identified by its url)
